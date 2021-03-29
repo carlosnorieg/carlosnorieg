@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @carlosnorieg
+- 👀 I’m interested in coding :D
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any projects that you send my way
+- 📫 How to reach me: carlosmarin083@gmail.com
